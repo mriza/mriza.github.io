@@ -1,8 +1,9 @@
-title: Mriza.GitHub.io
-description: source for mriza.github.io
+title: Riza's Digital Playground
+description: Once upon a byte...
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-cayman
+markdown: kramdown
 
 gems:
   - jekyll-mentions
