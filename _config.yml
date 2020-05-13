@@ -3,7 +3,6 @@ description: Once upon a byte...
 google_analytics: 
 show_downloads: false
 theme: jekyll-theme-cayman
-markdown: kramdown
 
 gems:
   - jekyll-mentions
