@@ -1,6 +1,8 @@
 SITENAME = "Riza's Playground"
-SITEURL = ''
-
+SITEURL = 'https://mriza.github.io'
+DOMAIN = SITEURL
+FEED_DOMAIN = SITEURL
+HTTPS + True
 PATH = 'content'
 
 TIMEZONE = 'Asia/Jakarta'
